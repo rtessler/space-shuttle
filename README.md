@@ -4,4 +4,4 @@ $ npm install
 $ npm run start
 
 
-Open http://localhost:8080 to view your project.
+Open http://localhost:8080/3d-obj-loader to view your project.
