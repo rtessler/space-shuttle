@@ -29,7 +29,7 @@ var mtlLoader = new THREE.MTLLoader();
 //const assestPath = '/examples/3d-obj-loader/assets/'
 //const materialFile = 'r2-d2.mtl'
 //const objFile = 'r2-d2.obj'
-const assestPath = '/examples/3d-obj-loader/assets/space-shuttle-orbiter-obj/'
+const assestPath = '/3d-obj-loader/assets/space-shuttle-orbiter-obj/'
 const materialFile = 'space-shuttle-orbiter.mtl'
 const objFile = 'space-shuttle-orbiter.obj'
 

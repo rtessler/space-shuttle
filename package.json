@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github-learnthreejs:learnthreejs/three-js-boilerplate.git"
+    "url": "https://github.com/rtessler/space-shuttle"
   },
   "author": "",
   "license": "ISC",
